@@ -34,3 +34,5 @@ commit log
 - string databinding
 
 - v-html (vue directive)
+
+- v-model (two-way binding on a form input element or a component)
