@@ -32,3 +32,5 @@ commit log
 - eslint, prettier 설정
 
 - string databinding
+
+- v-html (vue directive)
