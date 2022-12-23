@@ -15,6 +15,14 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+  },
+  {
+    path: '/databinding/string',
+    name: 'DataBindingStringView',
+    component: () =>
+      import(
+        /* webpackChunkName: "about" */ '../views/1_databinding/DataBindingStringView.vue'
+      )
   }
 ]
 
