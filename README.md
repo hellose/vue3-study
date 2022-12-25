@@ -46,3 +46,5 @@ commit log
 - v-model (radio)
 
 - v-bind:attributeName (:attributeName과 동일)
+
+- v-for (list item)
