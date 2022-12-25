@@ -56,3 +56,5 @@ commit log
 - v-on:click (@click과 동일)
 
 - @change
+
+- @keyup and @keyup.enter
