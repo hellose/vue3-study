@@ -50,3 +50,5 @@ commit log
 - v-for (list item)
 
 - v-bind:class
+
+- v-bind:style
