@@ -52,3 +52,5 @@ commit log
 - v-bind:class
 
 - v-bind:style
+
+- v-on:click (@click과 동일)
