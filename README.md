@@ -44,3 +44,5 @@ commit log
 - v-model (checkbox)
 
 - v-model (radio)
+
+- v-bind:attributeName (:attributeName과 동일)
