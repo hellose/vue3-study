@@ -40,3 +40,5 @@ commit log
 - v-model.number
 
 - v-model (select tag)
+
+- v-model (checkbox)
