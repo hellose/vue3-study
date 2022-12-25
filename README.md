@@ -54,3 +54,5 @@ commit log
 - v-bind:style
 
 - v-on:click (@click과 동일)
+
+- @change
