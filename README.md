@@ -48,3 +48,5 @@ commit log
 - v-bind:attributeName (:attributeName과 동일)
 
 - v-for (list item)
+
+- v-bind:class
