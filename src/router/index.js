@@ -63,6 +63,14 @@ const routes = [
       import(
         /* webpackChunkName: "databinding" */ '../views/1_databinding/DataBindingRadioView.vue'
       )
+  },
+  {
+    path: '/databinding/attr',
+    name: 'DataBindingAttributeView',
+    component: () =>
+      import(
+        /* webpackChunkName: "databinding" */ '../views/1_databinding/DataBindingAttributeView.vue'
+      )
   }
 ]
 
