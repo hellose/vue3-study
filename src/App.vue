@@ -5,6 +5,7 @@
     <router-link to="/databinding/string">String</router-link> |
     <router-link to="/databinding/html">Html</router-link> |
     <router-link to="/databinding/input">Input</router-link> |
+    <router-link to="/databinding/select">Select</router-link> |
   </nav>
   <router-view />
 </template>

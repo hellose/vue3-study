@@ -38,3 +38,5 @@ commit log
 - v-model (two-way binding on a form input element or a component)
 
 - v-model.number
+
+- v-model (select tag)
