@@ -42,3 +42,5 @@ commit log
 - v-model (select tag)
 
 - v-model (checkbox)
+
+- v-model (radio)
