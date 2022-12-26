@@ -119,6 +119,14 @@ const routes = [
       import(
         /* webpackChunkName: "event" */ '../views/2_event/EventKeyView.vue'
       )
+  },
+  {
+    path: '/tutorial/1',
+    name: 'TemplateSyntaxView',
+    component: () =>
+      import(
+        /* webpackChunkName: "tutorial" */ '../views/3_tutorial/TemplateSyntaxView.vue'
+      )
   }
 ]
 

@@ -27,6 +27,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 commit log
 
+유튜브 개발자의 품격 정리
+
 - init
 
 - eslint, prettier 설정
@@ -58,3 +60,7 @@ commit log
 - @change
 
 - @keyup and @keyup.enter
+
+Vue3 reference tutorial
+
+- Template Syntax
